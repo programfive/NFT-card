@@ -13,10 +13,6 @@ Este proyecto es una representación visual de una tarjeta NFT (Token No Fungibl
 - **CSS**: Estilos y animaciones para la tarjeta.
 - **Flexbox**: Para alinear y distribuir los elementos de manera eficiente.
 
-## Vista Previa
-
-![Captura de la Tarjeta NFT](https://via.placeholder.com/300x400) *(Reemplaza con una imagen real de tu proyecto)*
-
 ## Cómo Usar
 
 1. Clona este repositorio en tu máquina local:
